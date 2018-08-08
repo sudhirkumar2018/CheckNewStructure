@@ -5,13 +5,7 @@
   </PropertyGroup>
 
   <PropertyGroup>
-    <GenerateAssemblyCompanyAttribute>false</GenerateAssemblyCompanyAttribute>
-	<GenerateAssemblyConfigurationAttribute>false</GenerateAssemblyConfigurationAttribute>
-	<GenerateAssemblyDescriptionAttribute>false</GenerateAssemblyDescriptionAttribute>
-	<GenerateAssemblyFileVersionAttribute>false</GenerateAssemblyFileVersionAttribute>
-	<GenerateAssemblyProductAttribute>false</GenerateAssemblyProductAttribute>
-	<GenerateAssemblyTitleAttribute>false</GenerateAssemblyTitleAttribute>
-	<GenerateAssemblyVersionAttribute>false</GenerateAssemblyVersionAttribute>
+     <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
   </PropertyGroup>
 
   <ItemGroup>
