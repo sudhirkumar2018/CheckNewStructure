@@ -11,6 +11,9 @@
     <StartupObject />
   </PropertyGroup>
   
+  <PropertyGroup>
+    <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
+  </PropertyGroup>
 
   <ItemGroup>
     <Compile Include="PaymentTransactions\GetAnAcceptPaymentPage.cs" />
