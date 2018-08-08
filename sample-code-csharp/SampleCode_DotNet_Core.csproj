@@ -10,6 +10,7 @@
     <OutputTypeEx>exe</OutputTypeEx>
     <StartupObject />
   </PropertyGroup>
+  
 
   <ItemGroup>
     <Compile Include="PaymentTransactions\GetAnAcceptPaymentPage.cs" />
