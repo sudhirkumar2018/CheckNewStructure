@@ -26,7 +26,7 @@ namespace net.authorize.sample
 
             // parameters for request
             string month = "2017-06";
-            string modifiedTypeFilter = "all"
+            string modifiedTypeFilter = "all";
 
             var request = new getAccountUpdaterJobDetailsRequest();
             request.month = month;
