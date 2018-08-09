@@ -9,10 +9,7 @@ os:
   - osx
 
 before_script:
-    - git submodule update --remote --recursive
-    - dotnet restore ./AuthorizeNET/AuthorizeNET.csproj
-    - dotnet restore ./sample-code-csharp/SampleCode_DotNet_Core.csproj
-    - dotnet restore ./sample-code-csharp/SampleCodeTest/SampleCodeTest_DotNet_Core.csproj
+    - git submodule update --remote --recursive    
     
   
 script:

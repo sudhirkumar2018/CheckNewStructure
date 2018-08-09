@@ -15,13 +15,20 @@
      <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
   </PropertyGroup>
   
+ <ItemGroup>
+   <Compile Remove="SampleCodeTest\**" />
+   <EmbeddedResource Remove="SampleCodeTest\**" />
+   <None Remove="SampleCodeTest\**" />
+ </ItemGroup>
+  
   
   <ItemGroup>
     <Compile Remove="TransactionReporting\GetCustomerProfileTransactionList.cs" />
   </ItemGroup>
-
+  
+  
   <ItemGroup>
-    <ProjectReference Include="..\..\AuthorizeNET\AuthorizeNET.csproj" />
+    <ProjectReference Include="..\AuthorizeNET\AuthorizeNET.csproj" />
   </ItemGroup>
 
   

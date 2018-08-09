@@ -11,6 +11,7 @@ using net.authorize.sample.PaymentTransactions;
 using System.Threading;
 using net.authorize.sample.CustomerProfiles;
 using net.authorize.sample.MobileInappTransactions;
+using AuthorizeNet.Utilities;
 
 namespace SampleCodeTest
 {

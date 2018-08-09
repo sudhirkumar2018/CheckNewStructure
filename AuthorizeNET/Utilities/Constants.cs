@@ -1,4 +1,4 @@
-﻿namespace AuthorizeNET.Utilities
+﻿namespace AuthorizeNet.Utilities
 {
     public static class Constants
     {

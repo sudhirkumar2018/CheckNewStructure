@@ -5,7 +5,7 @@ using System.Xml;
 using System.Xml.Serialization;
 using Microsoft.Extensions.Logging;
 
-namespace AuthorizeNET.Utilities
+namespace AuthorizeNet.Utilities
 {
     public static class XmlUtility
     {

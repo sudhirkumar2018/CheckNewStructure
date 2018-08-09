@@ -1,4 +1,4 @@
-namespace AuthorizeNET.Api.Controllers.Bases
+namespace AuthorizeNet.Api.Controllers.Bases
 {
     using System.Collections.Generic;
     using System.Globalization;
@@ -13,7 +13,7 @@ namespace AuthorizeNET.Api.Controllers.Bases
     {
         protected static ILogger Logger = LogFactory.getLog(typeof(ApiOperationBase<TQ, TS>));
 
-        public static AuthorizeNET.Environment RunEnvironment { get; set; }
+        public static AuthorizeNet.Environment RunEnvironment { get; set; }
         public static merchantAuthenticationType MerchantAuthentication { get; set; }
 
         private TQ _apiRequest;
@@ -77,7 +77,7 @@ namespace AuthorizeNET.Api.Controllers.Bases
             _errorResponse = errorResponse;
         }
 
-        public TS ExecuteWithApiResponse(AuthorizeNET.Environment environment = null)
+        public TS ExecuteWithApiResponse(AuthorizeNet.Environment environment = null)
         {
             Execute(environment);
             return GetApiResponse();
@@ -85,7 +85,7 @@ namespace AuthorizeNET.Api.Controllers.Bases
 
         const String NullEnvironmentErrorMessage = "Environment not set. Set environment using setter or use overloaded method to pass appropriate environment";
 
-        public void Execute(AuthorizeNET.Environment environment = null)
+        public void Execute(AuthorizeNet.Environment environment = null)
         {
             BeforeExecute();
 

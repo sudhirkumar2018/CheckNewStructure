@@ -1,4 +1,4 @@
-﻿namespace AuthorizeNET
+﻿namespace AuthorizeNet
 {
     public class App
     {

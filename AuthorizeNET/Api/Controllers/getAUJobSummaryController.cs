@@ -1,8 +1,8 @@
 ﻿namespace AuthorizeNet.Api.Controllers
 {
     using System;
-    using AuthorizeNET.Api.Contracts.V1;
-    using AuthorizeNET.Api.Controllers.Bases;
+    using AuthorizeNet.Api.Contracts.V1;
+    using AuthorizeNet.Api.Controllers.Bases;
 
 
 #pragma warning disable 1591

@@ -1,0 +1,8 @@
+C:\Refactor_DotNet_Core\Refactor-2\AuthorizeNET\bin\Debug\netcoreapp1.1\AuthorizeNET.deps.json
+C:\Refactor_DotNet_Core\Refactor-2\AuthorizeNET\bin\Debug\netcoreapp1.1\AuthorizeNET.dll
+C:\Refactor_DotNet_Core\Refactor-2\AuthorizeNET\bin\Debug\netcoreapp1.1\AuthorizeNET.pdb
+C:\Refactor_DotNet_Core\Refactor-2\AuthorizeNET\obj\Debug\netcoreapp1.1\AuthorizeNET.csproj.CoreCompileInputs.cache
+C:\Refactor_DotNet_Core\Refactor-2\AuthorizeNET\obj\Debug\netcoreapp1.1\AuthorizeNET.AssemblyInfoInputs.cache
+C:\Refactor_DotNet_Core\Refactor-2\AuthorizeNET\obj\Debug\netcoreapp1.1\AuthorizeNET.AssemblyInfo.cs
+C:\Refactor_DotNet_Core\Refactor-2\AuthorizeNET\obj\Debug\netcoreapp1.1\AuthorizeNET.dll
+C:\Refactor_DotNet_Core\Refactor-2\AuthorizeNET\obj\Debug\netcoreapp1.1\AuthorizeNET.pdb
