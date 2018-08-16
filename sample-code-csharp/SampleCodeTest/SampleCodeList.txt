@@ -1,9 +1,4 @@
 SampleCode	IsDependent	RunApi
-UpdateCustomerPaymentProfile	1	1
-UpdateCustomerProfile	1	1
-UpdateCustomerShippingAddress	1	1
-ValidateCustomerPaymentProfile	1	1
-GetUnsettledTransactionList	0	1
 DecryptVisaCheckoutData	0	1
 CaptureFundsAuthorizedThroughAnotherChannel	1	1
 PayPalAuthorizeOnly	1	1
