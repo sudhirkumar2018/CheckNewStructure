@@ -28,6 +28,11 @@
   
   
   <ItemGroup>
+    <None Remove="README.md" />
+  </ItemGroup>
+  
+  
+  <ItemGroup>
     <ProjectReference Include="..\AuthorizeNET\AuthorizeNET.csproj" />
   </ItemGroup>
 

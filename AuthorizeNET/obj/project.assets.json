@@ -7292,11 +7292,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Refactor_DotNet_Core\\Refactor-2\\AuthorizeNET\\AuthorizeNET.csproj",
+      "projectUniqueName": "C:\\git\\CheckStructure\\CheckNewStructure\\AuthorizeNET\\AuthorizeNET.csproj",
       "projectName": "AuthorizeNET",
-      "projectPath": "C:\\Refactor_DotNet_Core\\Refactor-2\\AuthorizeNET\\AuthorizeNET.csproj",
+      "projectPath": "C:\\git\\CheckStructure\\CheckNewStructure\\AuthorizeNET\\AuthorizeNET.csproj",
       "packagesPath": "C:\\Users\\spadthap\\.nuget\\packages\\",
-      "outputPath": "C:\\Refactor_DotNet_Core\\Refactor-2\\AuthorizeNET\\obj\\",
+      "outputPath": "C:\\git\\CheckStructure\\CheckNewStructure\\AuthorizeNET\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\spadthap\\AppData\\Roaming\\NuGet\\NuGet.Config",
