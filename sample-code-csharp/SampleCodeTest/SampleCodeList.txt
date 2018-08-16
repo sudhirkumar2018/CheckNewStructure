@@ -6,7 +6,6 @@ GetSubscription	1	1
 UpdateSubscription	1	1
 CreateCustomerProfile	1	1
 CreateCustomerPaymentProfile	1	1
-GetMerchantDetails	0	1
 GetAnAcceptPaymentPage	1	1
 ChargeCustomerProfile	1	1
 GetCustomerProfileIds	1	1
@@ -32,4 +31,3 @@ DeleteCustomerProfile	1	1
 DeleteCustomerPaymentProfile	1	1
 CreateCustomerShippingAddress	1	1
 GetAccountUpdaterJobSummary	0	0
-GetAccountUpdaterJobDetails 1   0
